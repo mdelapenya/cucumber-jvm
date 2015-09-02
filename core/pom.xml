@@ -28,6 +28,11 @@
             <groupId>io.cucumber</groupId>
             <artifactId>tag-expressions</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.core</artifactId>
+            <version>6.0.0</version>
+        </dependency>
 
         <dependency>
             <groupId>junit</groupId>
